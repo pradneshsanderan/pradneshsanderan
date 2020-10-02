@@ -10,4 +10,4 @@
 - ⚡ Fun fact: I love photography, dogs and outdoor adventures....... and also food
 
 ### GitHub Stats
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pradneshsanderan&count_private=true&hide=stars&show_icons=true)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pradneshsanderan&count_private=true&hide=stars&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)

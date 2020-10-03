@@ -9,8 +9,11 @@
 - 🥅 2020 Goals: Contribute more to Open Source projects, improve technical knowledge, read more books and stop burning my food
 - ⚡ Fun fact: I love photography, dogs and outdoor adventures....... and also food
 
-### GitHub Stats
+
 [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pradneshsanderan&count_private=true&hide=stars&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
 
-### Top Languages 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradneshsanderan)](https://github.com/anuraghazra/github-readme-stats)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradneshsanderan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+
+[![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pradneshsanderan)](https://github.com/anuraghazra/github-readme-stats)

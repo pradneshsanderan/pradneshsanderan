@@ -17,3 +17,7 @@
 
 [![willianrod's wakatime stats](https://github-readme-stats.vercel.app/api/wakatime?username=pradneshsanderan)](https://github.com/anuraghazra/github-readme-stats)
 
+### Technical Skills
+https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white
+https://img.shields.io/badge/html-%23239120.svg?&style=flat-square&logo=html5&logoColor=white
+https://img.shields.io/badge/css-%23239120.svg?&style=flat-square&logo=css3&logoColor=white

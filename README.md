@@ -17,7 +17,7 @@
 
 
 ### Technical Skills
-<p>
+
   <img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
@@ -31,16 +31,16 @@
   <img align="left" align="left" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img align="left" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
- </p>
+ 
  
  
  
 ### Contact Me
-<p>
+
 <a href="https://www.linkedin.com/in/pradnesh-sanderan-70b24b19a/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
   <a href="mailto:pradneshsanderan@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
-</p>
+
 

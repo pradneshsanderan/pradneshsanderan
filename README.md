@@ -31,7 +31,7 @@
   <img align="left" align="left" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
   <img align="left" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
- </P>
+ </p>
 
 
 

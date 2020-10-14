@@ -32,7 +32,10 @@
   <img align="left" src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
   <img align="left" src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
  </p>
-<h3>Contact Me</h3>
+ 
+ 
+ 
+### Contact Me
 <p>
 <a href="https://www.linkedin.com/in/pradnesh-sanderan-70b24b19a/">
   <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>

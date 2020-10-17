@@ -44,5 +44,6 @@
   <a href="mailto:pradneshsanderan@gmail.com">
   <img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" />
   </a>
+   <a href="https://github.com/pradneshsanderan" target="_blank"><img alt="GitHub hits" src="https://img.shields.io/github/last-commit/alwinw/alwinw?label=profile%20updated&style=flat-square"></a>
 
 

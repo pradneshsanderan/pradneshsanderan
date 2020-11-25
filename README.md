@@ -1,7 +1,7 @@
-## Hi there, I'm Pradnesh 🙂
+<h1> Hi there, I'm Pradnesh 🙂</h1>
 
 
-### I'm a Computer Science Student
+<h2> I'm a Computer Science Student</h2?
 - 🎓 I'm currently a Student at the University of Edinburgh
 - 🔭 I'm currently working on improving my knowledge and technical skills
 - 🧠 I’m currently learning Java ☕
@@ -15,7 +15,7 @@
 <!--language state-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradneshsanderan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h5> Technical Skills </h5>
+<h2> Technical Skills </h2>
 <div>
   <img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />

@@ -15,7 +15,7 @@
 <!--language state-->
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradneshsanderan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> Technical Skills </h2>
+<h5> Technical Skills </h5>
 <div>
   <img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
   <img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />

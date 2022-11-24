@@ -1,15 +1,14 @@
-<h1> Hi there, I'm Pradnesh 🙂</h1>
+<h1> Hi there, I'm Pradnesh </h1>
 
 
 <h2> I'm a Computer Science Student</h2>
 <div>
   
-<p>- 🎓 I'm currently a Student at the University of Edinburgh </p>
-<p>- 🔭 I'm currently working on improving my knowledge on algorithms and data structures and technical skills</p>
-<p>- 🧠 I’m currently learning Java ☕</p>
-<p>- 👯 I’m looking to improve myself, learn from other and contribute more to open source projects</p>
-<p>- 🥅 2021 Goals: Contribute more to Open Source projects, improve technical knowledge, read more books and stop burning my food</p>
-<p>- ⚡ Fun fact: I love photography, dogs and outdoor adventures....... and also food</p>
+<p>-  I'm currently a Student at the University of Edinburgh </p>
+<p>-  I'm currently working on improving my knowledge on algorithms and data structures and technical skills</p>
+<p>-  I’m currently learning Java ☕</p>
+<p>-  I’m looking to improve myself, learn from other and contribute more to open source projects</p>
+<p>-  2022 Goals: Contribute more to Open Source projects, improve technical knowledge, read more books and stop burning my food</p>
   </div>
 
 <!--github stats-->

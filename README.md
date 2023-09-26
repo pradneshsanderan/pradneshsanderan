@@ -1,5 +1,5 @@
-<h1> Hi there, I'm Pradnesh </h1>
-
+<img src="./header.png"/>
+`Digital Craftsman (Developer/Creator)`
 
 <h2> I'm a Computer Science Student</h2>
 <div>

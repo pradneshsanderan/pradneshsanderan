@@ -36,7 +36,7 @@ I'm a graduate full-stack developer expanding my knowledge and improving myself,
 
 ![Pradnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradneshsanderan&show_icons=true&theme=calm_pink&title_color=f4e2c9&text_color=f59c60&bg_color=252f45&icon_color=f4e2c9&border_color=f59c60)
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pradneshsanderan&theme=dark&background=252f45&border=f59c60&stroke=f59c60&currStreakNum=f59c60&sideNums=f59c60&)](https://git.io/streak-stats)
+
 
 #
 

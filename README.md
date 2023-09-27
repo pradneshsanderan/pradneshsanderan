@@ -1,50 +1,48 @@
-<img src="./header.png"/>
-`Digital Craftsman (Developer/Creator)`
+# <img src="./header.png"/>
 
-<h2> I'm a Computer Science Student</h2>
-<div>
-  
-<p>-  I'm currently a Student at the University of Edinburgh </p>
-<p>-  I'm currently working on improving my knowledge on algorithms and data structures and technical skills</p>
-<p>-  I’m currently learning Java ☕</p>
-<p>-  I’m looking to improve myself, learn from other and contribute more to open source projects</p>
-<p>-  2022 Goals: Contribute more to Open Source projects, improve technical knowledge, read more books and stop burning my food</p>
-  </div>
+**`Digital Craftsman (Developer/Creator)`**
 
-<!--github stats-->
-[![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=pradneshsanderan&count_private=true&hide=stars&show_icons=true&theme=buefy)](https://github.com/anuraghazra/github-readme-stats)
+I'm a graduate full-stack developer expanding my knowledge and improving myself, one project at a time. All coding projects are either projects from school or my own personal projects and are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 
-<!--language state-->
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=pradneshsanderan&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
-<h2> Technical Skills </h2>
-<div>
-  <img align="left" src="https://img.shields.io/badge/python-%233776AB.svg?&style=flat-square&logo=python&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/html5%20-%23E34F26.svg?&style=for-the-badge&logo=html5&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/css3%20-%231572B6.svg?&style=for-the-badge&logo=css3&logoColor=white" />
-  <img align="left" src="	https://img.shields.io/badge/javascript%20-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E" />
-  <img align="left" src="https://img.shields.io/badge/c%20-%2300599C.svg?&style=for-the-badge&logo=c&logoColor=white" />
-  <img align="left" src="https://img.shields.io/badge/java-%23ED8B00.svg?&style=for-the-badge&logo=java&logoColor=white" />
-  
-  
-  <img align="left" src="	https://img.shields.io/badge/react%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img align="left" src="https://img.shields.io/badge/react_native%20-%2320232a.svg?&style=for-the-badge&logo=react&logoColor=%2361DAFB" />
-  <img align="left"align="left"align="left" src="https://img.shields.io/badge/redux%20-%23593d88.svg?&style=for-the-badge&logo=redux&logoColor=white" />
-  <img align="left"align="left" src="https://img.shields.io/badge/Microsoft%20Office-D83B01?logo=microsoft-office&logoColor=white&style=for-the-badge" />
-  <img  align="left" src="https://img.shields.io/badge/firebase%20-%23039BE5.svg?&style=for-the-badge&logo=firebase"/>
-  <img src="https://img.shields.io/badge/steam%20-%23000000.svg?&style=for-the-badge&logo=steam&logoColor=white"/>
-  <img  src="https://img.shields.io/badge/epic%20games%20-%23313131.svg?&style=for-the-badge&logo=epic%20games&logoColor=white"/>
-</div>
- 
- 
- 
-<h2> Contact Me </h2>
+---
 
-<a href="https://www.linkedin.com/in/pradnesh-sanderan-70b24b19a/">
-  <img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /> </a>
-  <a href="mailto:pradneshsanderan@gmail.com">
-  <img alt="Email" src="https://img.shields.io/badge/Email-D14836?&style=for-the-badge&logo=Gmail&logoColor=white" />
-  </a>
+### 🧰 Languages and Tools
+
+<img align="left" alt="Java" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg"/>
+<img align="left" alt="Git" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/linux/linux-original.svg" />
+
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/tensorflow/tensorflow-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/haskell/haskell-original.svg" />
+<img align="left" alt="Linux" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/c/c-plain.svg"  />
+
+<img align="left" alt="HTML" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-plain.svg" />
+<img align="left" alt="CSS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-plain.svg" />
+<img align="left" alt="JavaScript" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/javascript/javascript-plain.svg" />
+<img align="left" alt="React" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" />
+<img align="left" alt="NodeJS" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" />
+<img align="left" alt="Python" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-plain.svg" />
+<img align="left" alt="C++" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/cplusplus/cplusplus-line.svg" />
+<img align="left" alt="GitHub" width="30px" style="padding-right:10px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+          
+<br />
+
+#
 
 
 
+### 📊 Stats
+
+![Pradnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradneshsanderan&show_icons=true&theme=calm_pink&title_color=f4e2c9&text_color=f59c60&bg_color=252f45&icon_color=f4e2c9&border_color=f59c60)
+
+[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=pradneshsanderan&theme=dark&background=252f45&border=f59c60&stroke=f59c60&currStreakNum=f59c60&sideNums=f59c60&)](https://git.io/streak-stats)
+
+#
+
+<details>
+ <summary><h3>👨‍💻 Pradnesh's Coding Journey</h3></summary>
+   I started my coding journey as a naive computer science student with a passion to learn everything I could about this programming world - code, unix, linux, theory. And all the while, teaching myself iOS development with a dream to build my own app, but that soon got overshadowed by my desire to excel in Java. A desire that landed me a full-stack software engineering job upon graduation. However, I had another desire I had been pursuing throughout this time - YouTube content creation. I eventually ended up quitting my software engineering job to pursue YouTube full-time, and that has been my focus ever since. But there's something that's always bothered me about my journey - abandoning my dream of building my own app to pursue the safe route, a job. Now I've already taken the leap away from that safety net into this uncomfortable, unexplored world that it being a creator. And it worked out, but again, it became comfortable. It's easier to create a video than go out on a ledge and build my own product. I do have to eat, at the end of the day, but I think it's time. It's time to get uncomfortable again. I have a burning desire to get back on the horse, and fulfill that dream younger me had of building my own app, my own product. And in order to do that, I'll be implmementing a few measures to streamline my YouTube content to focus more time on fulfilling that dream - a dream that I'll be ready to tackle in 2023 due to the measure I'm putting in place now until the end of 2022. Don't wait up, because I'm coming.
+
+[website]: https://fkcodes.com
+[youtube]: https://youtube.com/fknight

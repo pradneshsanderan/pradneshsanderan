@@ -29,15 +29,6 @@ I'm a MSc Computer Science student expanding my knowledge and improving myself, 
 
 #
 
-
-
-### 📊 Stats
-
-![Pradnesh's GitHub stats](https://github-readme-stats.vercel.app/api?username=pradneshsanderan&show_icons=true&theme=calm_pink&title_color=f4e2c9&text_color=f59c60&bg_color=252f45&icon_color=f4e2c9&border_color=f59c60)
-
-
-
-
 #
 
 <details>

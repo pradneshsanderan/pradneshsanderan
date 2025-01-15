@@ -1,6 +1,6 @@
 # <img src="./header.png"/>
 
-**`Digital Craftsman (Developer/Creator)`**
+**`Aspiring Software engineer/developer`**
 
 I'm a MSc Computer Science student expanding my knowledge and improving myself, one project at a time. All coding projects are either projects from school or my own personal projects and are built from the ground up, from planning and designing all the way to solving real-life problems with code. 
 

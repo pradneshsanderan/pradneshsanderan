@@ -1,4 +1,4 @@
-# 💫 About Me:
+# About Me:
 Hey there! 👋<br><br>I’m Pradnesh, a MSc Computer Science graduate who's passionate about building systems that solve real-world problems.<br><br>I love working across the stack, but I’m especially drawn to the backend: designing APIs, optimising performance, and deploying to the cloud.<br><br>My main tech stack includes Java, React, Node.js, Docker, and AWS. I also enjoy experimenting with machine learning and data-driven applications in my free time.<br><br>Some of my favorite projects include:<br><br>🏥 A hospital review platform helping Malaysians compare medical service prices.<br><br>🧠 A human activity recognition system using wearable sensor data and ML models.<br><br>📚 An interactive educational tool for visualising divide-and-conquer algorithms.<br><br>🚁 A drone delivery system that plans efficient routes while avoiding no-fly zones<br><br>When I’m not coding, I’m probably 3D printing, crocheting, listening to my vinyls, or designing something fun like a Lord of the Rings–themed chess board that connects to Chess.com.
 
 
